@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am cosyer who is a developer from Nanjing.
+I am cosyer who is a developer from NanJing.
 
 ### Links 📌
 
