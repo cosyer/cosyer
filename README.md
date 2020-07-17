@@ -9,7 +9,7 @@ I am cosyer who is a developer from NanJing.
 - cnblogs: [https://www.cnblogs.com/cosyer](https://www.cnblogs.com/cosyer)
 - twitter: [https://twitter.com/yzchenyu1995](https://twitter.com/yzchenyu1995)
 
-### Contract ME 😄
+### Contract 😄
 
 - qq: 535509852
 - wechat: cy-535509852
