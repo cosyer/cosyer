@@ -14,3 +14,5 @@ I am cosyer who is a developer from NanJing.
 - qq: 535509852
 - wechat: cy-535509852
 - email: chenyu@mydearest.cn
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=cosyer&show_icons=true&hide_border=true)
