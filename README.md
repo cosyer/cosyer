@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am cosyer who is a developer from NanJing.
+I am cosyer who is a developer from NanJing.Wubba lubba dub dub.
 
 ### Links 📌
 
