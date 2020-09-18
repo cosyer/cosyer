@@ -1,6 +1,7 @@
 ### Hi there 👋
+I am cosyer who is a developer from NanJing.Wubba lubba dub dub. ![](https://visitor-badge.glitch.me/badge?page_id=cosyer)
 
-I am cosyer who is a developer from NanJing.Wubba lubba dub dub.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ### Links 📌
 
@@ -14,5 +15,7 @@ I am cosyer who is a developer from NanJing.Wubba lubba dub dub.
 - qq: 535509852
 - wechat: cy-535509852
 - email: chenyu@mydearest.cn
+
+### Stats 🌱
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=cosyer&show_icons=true&hide_border=true&hide=contribs,prs)
