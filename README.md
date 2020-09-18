@@ -12,7 +12,7 @@ I am cosyer who is a developer from NanJing.Wubba lubba dub dub. ![](https://vis
 
 ### Contract 😄
 
-- qq: 535509852
+- qq: <a href="tencent://message/?uin=535509852&Site=-&Menu=yes" target="_blank">535509852</a>
 - wechat: cy-535509852
 - email: chenyu@mydearest.cn
 
