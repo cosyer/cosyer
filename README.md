@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am cosyer who is a developer from NanJing.Wubba lubba dub dub. ![](https://visitor-badge.glitch.me/badge?page_id=cosyer)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="325" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
 ### Links 📌
 
