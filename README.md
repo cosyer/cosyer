@@ -18,4 +18,8 @@ I am cosyer who is a developer from NanJing.Wubba lubba dub dub. ![](https://vis
 
 ### Stats 🌱
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=cosyer&show_icons=true&hide_border=true&hide=contribs,prs)
+<img src="https://github-readme-stats.vercel.app/api?username=cosyer&show_icons=true&hide_border=true&hide=contribs,
+prs" alt="stats" align="left" style="max-width:50%;"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=cosyer&theme=flat&column=3&margin-w=10&title=Stars,
+Commit,Issues" alt="trophy" height="160" align="right" />
