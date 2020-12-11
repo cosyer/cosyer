@@ -1,7 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30" /> 
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 <!-- 👋 -->
 
-I am cosyer who is a developer from NanJing.Wubba lubba dub dub. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> ![](https://visitor-badge.glitch.me/badge?page_id=cosyer)
+<img src="https://emojis.slackmojis.com/emojis/images/1479080836/1363/eevee.gif?1479080836" width="30" /> I am cosyer who is a developer from NanJing.Wubba lubba dub dub. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> ![](https://visitor-badge.glitch.me/badge?page_id=cosyer)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
