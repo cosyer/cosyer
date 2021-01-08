@@ -13,7 +13,7 @@
 - cnblogs: [https://www.cnblogs.com/cosyer](https://www.cnblogs.com/cosyer)
 - twitter: [https://twitter.com/yzchenyu1995](https://twitter.com/yzchenyu1995)
 
-### Contract 😄
+### Contacts 😄
 
 - qq: <a href="tencent://message/?uin=535509852&Site=-&Menu=yes" target="_blank">535509852</a>
 - wechat: cy-535509852
